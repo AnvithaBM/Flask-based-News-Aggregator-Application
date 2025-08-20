@@ -36,5 +36,6 @@ python app.py
 
 ### Terminal 2: Start ngrok
 ngrok http 5000
+
 Copy the public URL shown in the terminal (e.g., https://<random>.ngrok-free.app) and share it.
 
