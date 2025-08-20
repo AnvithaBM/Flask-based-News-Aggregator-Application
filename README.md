@@ -5,6 +5,7 @@ A simple Flask-based news aggregator web application that fetches and displays t
 Users can browse news articles by topic (e.g., Business, Sports, Technology) with pagination support for smooth navigation.
 
 ## 1. Clone the Repository
+https://github.com/AnvithaBM/Flask-based-News-Aggregator-Application.git
 
 ## 2. Create & Activate Virtual Environment
 python -m venv .venv
